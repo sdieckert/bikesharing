@@ -77,7 +77,7 @@ Breaks down weekday but gender and user type. Customers are more balanced betwee
 
 [Link to Citibike Dashboard](https://public.tableau.com/app/profile/sharon.dieckert/viz/CitibikeChallenge_16584540182340/Story1?publish=yes)
 
-##Summary
+## Summary
 
 Through analyzing the data, it appears that not only is there a market for providing bikes to tourists, but that city commuters also provide a viable market and only use the bikes for short distances and during peak rush hours. These bikers tend to be subscribers and male.
 
